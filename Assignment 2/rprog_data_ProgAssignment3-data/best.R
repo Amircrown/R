@@ -1,4 +1,4 @@
-
+# This is from deleteme
 best <- function(state,outcome){
 
     
