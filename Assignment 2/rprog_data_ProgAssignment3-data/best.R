@@ -1,4 +1,4 @@
-
+# This is for the assignment 2-1
 best <- function(state,outcome){
 
     
