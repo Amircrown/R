@@ -1,4 +1,4 @@
-# This is from deleteme
+# This is from deleteme 2
 best <- function(state,outcome){
 
     
