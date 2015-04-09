@@ -1,4 +1,6 @@
-# This is for the assignment 2-1
+
+# This is from deleteme 2
+
 best <- function(state,outcome){
 
     
